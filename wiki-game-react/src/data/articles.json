@@ -1,0 +1,745 @@
+[{
+	"name": "Assembl\u00e9ia Legislativa",
+	"out_links": [{
+		"name": "Poder Legislativo",
+		"alias_in_text": "Poder Legislativo"
+	}, {
+		"name": "Unidade Federativa",
+		"alias_in_text": "Estados"
+	}, {
+		"name": "Cidad\u00e3o",
+		"alias_in_text": "Cidad\u00e3os"
+	}, {
+		"name": "Deputado Estadual",
+		"alias_in_text": "Deputados Estaduais"
+	}, {
+		"name": "Constitui\u00e7\u00e3o Estadual",
+		"alias_in_text": "Constitui\u00e7\u00e3o Estadual"
+	}],
+	"imagem": "imagem_0001",
+	"texto": "A Assembl\u00e9ia Legislativa \u00e9 o \u00f3rg\u00e3o do Poder Legislativo nos Estados. Ela representa os cidad\u00e3os que moram no Estado. \u00c9 composta por deputados estaduais e \u00e9 respons\u00e1vel pela Constitui\u00e7\u00e3o Estadual."
+}, {
+	"name": "C\u00e2mara dos Deputados",
+	"out_links": [{
+		"name": "Congresso Nacional",
+		"alias_in_text": "Congresso Nacional"
+	}, {
+		"name": "Deputado Federal",
+		"alias_in_text": "Deputados Federais"
+	}, {
+		"name": "Unidade Federativa",
+		"alias_in_text": "Estado"
+	}, {
+		"name": "Cidad\u00e3o",
+		"alias_in_text": "Cidad\u00e3os"
+	}],
+	"imagem": "imagem_0002",
+	"texto": "Faz parte do Congresso Nacional e \u00e9 composta Deputados Federais - representantes do povo. O n\u00famero de deputados por cada Estado \u00e9 proporcional ao n\u00famero de cidad\u00e3os que residem no Estado."
+}, {
+	"name": "C\u00e2mara Municipal",
+	"out_links": [{
+		"name": "Poder Legislativo",
+		"alias_in_text": "Poder Legislativo"
+	}, {
+		"name": "Munic\u00edpio",
+		"alias_in_text": "Munic\u00edpios"
+	}, {
+		"name": "Cidad\u00e3o",
+		"alias_in_text": "Cidad\u00e3os"
+	}, {
+		"name": "Vereador",
+		"alias_in_text": "Vereadores"
+	}, {
+		"name": "Lei Org\u00e2nica",
+		"alias_in_text": "Lei Org\u00e2nica"
+	}],
+	"imagem": "imagem_0003",
+	"texto": "A C\u00e2mara Municipal \u00e9 o \u00f3rg\u00e3o do Poder Legislativo nos munic\u00edpios. Ela representa os cidad\u00e3os que moram no munic\u00edpio. Cada munic\u00edpio elege um n\u00famero de vereadores proporcional ao total da popula\u00e7\u00e3o, sendo, no m\u00ednimo, 9 e, no m\u00e1ximo, 55. A C\u00e2mara Municipal tamb\u00e9m \u00e9 chamada de C\u00e2mara de Vereadores e \u00e9 repons\u00e1vel pela Lei Org\u00e2nica do munic\u00edpio."
+}, {
+	"name": "Candidato",
+	"out_links": [{
+		"name": "Voto",
+		"alias_in_text": "Votos"
+	}, {
+		"name": "Poder Legislativo",
+		"alias_in_text": "Poder Legislativo"
+	}, {
+		"name": "Poder Executivo",
+		"alias_in_text": "Poder Executivo"
+	}, {
+		"name": "Justi\u00e7a Eleitoral",
+		"alias_in_text": "Justi\u00e7a Eleitoral"
+	}, {
+		"name": "Partidos pol\u00edticos",
+		"alias_in_text": "Partido Pol\u00edtico"
+	}, {
+		"name": "Elei\u00e7\u00f5es",
+		"alias_in_text": "Elei\u00e7\u00e3o"
+	}],
+	"imagem": "imagem_0004",
+	"texto": "Pessoa que disputa um cargo e que precisa de votos para se eleger. O cargo pode ser para o Poder Legislativo ou para o Poder Executivo.\n\nPara poder investir candidatura a pessoa precisa ter nacionalidade brasileira ou ser naturalizado; estar em pleno exerc\u00edcio dos direitos pol\u00edticos; estar alistado na Justi\u00e7a Eleitoral; ter domic\u00edlio eleitoral na circunscri\u00e7\u00e3o h\u00e1 pelo menos um ano antes do pleito e ser filiado a um partido pol\u00edtico tamb\u00e9m h\u00e1 pelo menos um ano antes da elei\u00e7\u00e3o."
+}, {
+	"name": "Cidad\u00e3o",
+	"out_links": [{
+		"name": "Estado",
+		"alias_in_text": "Estado"
+	}, {
+		"name": "Constitui\u00e7\u00e3o Federal",
+		"alias_in_text": "Constitui\u00e7\u00e3o Federal"
+	}, {
+		"name": "Voto",
+		"alias_in_text": "Voto"
+	}],
+	"imagem": "imagem_0005",
+	"texto": "Pessoa que tem direitos civis e pol\u00edticos garantidos pelo Estado. E que tem tamb\u00e9m deveres a cumprir.\n\nOs direitos pol\u00edticos s\u00e3o regulados no Brasil pela Constitui\u00e7\u00e3o Federal em seu artigo 14, que estabelece como princ\u00edpio da participa\u00e7\u00e3o na vida pol\u00edtica nacional o sufr\u00e1gio universal. Nos tempos da norma constitucional, o alistamento eleitoral e o voto s\u00e3o obrigat\u00f3rios para os maiores de dezoito anos, e facultativos para os analfabetos, os maiores de dezesseis e menores de dezoito anos e os maiores de setenta anos."
+}, {
+	"name": "Congresso Nacional",
+	"out_links": [{
+		"name": "Poder Legislativo",
+		"alias_in_text": "Poder Legislativo"
+	}, {
+		"name": "Uni\u00e3o",
+		"alias_in_text": "Uni\u00e3o"
+	}, {
+		"name": "C\u00e2mara dos Deputados",
+		"alias_in_text": "C\u00e2mara dos Deputados"
+	}, {
+		"name": "Senado Federal",
+		"alias_in_text": "Senado Federal"
+	}, {
+		"name": "Sistema Bicameral",
+		"alias_in_text": "Sistema Bicameral"
+	}],
+	"imagem": "imagem_0006",
+	"texto": "\u00d3rg\u00e3o que representa o Poder Legislativo da Uni\u00e3o. \u00c9 formado pela C\u00e2mara dos Deputados e pelo Senado Federal. \n\nO Congresso Nacional usa o Sistema Bicameral e por isso possui duas casas legislativas."
+}, {
+	"name": "Constitui\u00e7\u00e3o Federal",
+	"out_links": [{
+		"name": "Leis",
+		"alias_in_text": "Lei"
+	}, {
+		"name": "Estado",
+		"alias_in_text": "Estado"
+	}, {
+		"name": "Cidad\u00e3o",
+		"alias_in_text": "Cidad\u00e3os"
+	}],
+	"imagem": "imagem_0007",
+	"texto": "Constitui\u00e7\u00e3o, tamb\u00e9m chamada de Carta Constitucional, \u00e9 a lei fundamental e suprema de um Estado, onde cont\u00e9m as normas relativas \u00e0 forma\u00e7\u00e3o dos poderes p\u00fablicos, forma de governo, distribui\u00e7\u00e3o das compet\u00eancias, direitos e deveres dos cidad\u00e3os etc."
+}, {
+	"name": "Constitui\u00e7\u00e3o Estadual",
+	"out_links": [{
+		"name": "Leis",
+		"alias_in_text": "Lei"
+	}, {
+		"name": "Unidade Federativa",
+		"alias_in_text": "Estados"
+	}, {
+		"name": "Constitui\u00e7\u00e3o Federal",
+		"alias_in_text": "Constitui\u00e7\u00e3o Federal"
+	}, {
+		"name": "Assembl\u00e9ia Legislativa",
+		"alias_in_text": "Assembl\u00e9ia Legislativa"
+	}, {
+		"name": "Governador",
+		"alias_in_text": "Governador"
+	}],
+	"imagem": "imagem_0008",
+	"texto": "\u00c9 a Lei Maior que rege um determinado estado-membro de um pa\u00eds. Nos estados do Brasil, seu poder \u00e9 aut\u00f4nomo e atua segundo delimita\u00e7\u00e3o imposta pela Constitui\u00e7\u00e3o Federal. O conte\u00fado da Constitui\u00e7\u00e3o Estadual \u00e9 elaborado pela Assembl\u00e9ia Legislativa e aprovado pelo Governador do estado respectivo."
+}, {
+	"name": "Democracia",
+	"out_links": [{
+		"name": "Voto",
+		"alias_in_text": "Votar"
+	}, {
+		"name": "Candidato",
+		"alias_in_text": "Candidato"
+	}, {
+		"name": "Elei\u00e7\u00f5es",
+		"alias_in_text": "Elei\u00e7\u00f5es"
+	}],
+	"imagem": "imagem_0009",
+	"texto": "Regime pol\u00edtico que se caracteriza pela liberdade de votar no candidato que se tem vontade durante as elei\u00e7\u00f5es, pela divis\u00e3o dos poderes e pelo controle e limite da autoridade."
+}, {
+	"name": "Deputado Estadual",
+	"out_links": [{
+		"name": "Assembl\u00e9ia Legislativa",
+		"alias_in_text": "Assembl\u00e9ia Legislativa"
+	}],
+	"imagem": "imagem_0010",
+	"texto": "Parlamentar que faz parte da Assembl\u00e9ia Legislativa. \u00c9 um representante do povo eleito para mandato de quatro anos."
+}, {
+	"name": "Deputado Federal",
+	"out_links": [{
+		"name": "C\u00e2mara dos Deputados",
+		"alias_in_text": "C\u00e2mara dos Deputados"
+	}],
+	"imagem": "imagem_0011",
+	"texto": "Membro da C\u00e2mara dos Deputados e representante do povo. Tem mandato de quatro anos."
+}, {
+	"name": "Elei\u00e7\u00f5es",
+	"out_links": [{
+		"name": "Voto",
+		"alias_in_text": "Vota\u00e7\u00e3o"
+	}, {
+		"name": "Cidad\u00e3o",
+		"alias_in_text": "Cidad\u00e3os"
+	}, {
+		"name": "Candidato",
+		"alias_in_text": "Candidatos"
+	}, {
+		"name": "Democracia",
+		"alias_in_text": "Democracia"
+	}],
+	"imagem": "imagem_0012",
+	"texto": "Escolha feita por meio de vota\u00e7\u00e3o. As elei\u00e7\u00f5es podem ser diretas, quando os cidad\u00e3os escolhem pessoalmente entre os candidatos; ou indiretas, quando representantes do povo votam em seu lugar.\n\nProcesso fundamental da democracia."
+}, {
+	"name": "Estado",
+	"out_links": [{
+		"name": "Leis",
+		"alias_in_text": "Leis"
+	}, {
+		"name": "Constitui\u00e7\u00e3o Federal",
+		"alias_in_text": "Constitui\u00e7\u00e3o"
+	}, {
+		"name": "Governo Federal",
+		"alias_in_text": "Governo"
+	}],
+	"imagem": "imagem_0013",
+	"texto": "Na\u00e7\u00e3o organizada pela pol\u00edtica e pelas leis, que ocupa um determinado territ\u00f3rio e \u00e9 dirigida por um governo pr\u00f3prio.\n\nEstado n\u00e3o se confunde com governo. O Estado \u00e9 organizado pol\u00edtica, social e juridicamente, ocupando um territ\u00f3rio definido onde, normalmente, a lei m\u00e1xima \u00e9 uma constitui\u00e7\u00e3o escrita. \u00c9 dirigido por um governo que possui soberania reconhecida tanto interna como externamente."
+}, {
+	"name": "Unidade Federativa",
+	"out_links": [{
+		"name": "Uni\u00e3o",
+		"alias_in_text": "Uni\u00e3o"
+	}, {
+		"name": "Governo Estadual",
+		"alias_in_text": "Governo Estadual"
+	}],
+	"imagem": "imagem_0038",
+	"texto": "Unidade da Federa\u00e7\u00e3o \u00e9 o nome dado a cada um dos 26 estados brasileiros e ao Distrito Federal. \n\nEm uma Federa\u00e7\u00e3o, o territ\u00f3rio nacional se divide em Unidades da Federa\u00e7\u00e3o que possuem alguma liberdade e independ\u00eancia e se ligam \u00e0 Uni\u00e3o\n\nCada estado possui o seu pr\u00f3prio governo, chamado de governo estadual."
+}, {
+	"name": "Governador",
+	"out_links": [{
+		"name": "Governo Estadual",
+		"alias_in_text": "Governo Estadual"
+	}, {
+		"name": "Vice-Governador",
+		"alias_in_text": "Vice-Governador"
+	}],
+	"imagem": "imagem_0014",
+	"texto": "O governador \u00e9 a autoridade m\u00e1xima do governo estadual. O governador \u00e9 eleito para um mandato de quatro anos, junto com um Vice-Governador."
+}, {
+	"name": "Governo Estadual",
+	"out_links": [{
+		"name": "Poder Executivo",
+		"alias_in_text": "Poder Executivo"
+	}, {
+		"name": "Unidade Federativa",
+		"alias_in_text": "Estado da Federa\u00e7\u00e3o"
+	}, {
+		"name": "Governador",
+		"alias_in_text": "Governador"
+	}],
+	"imagem": "imagem_0015",
+	"texto": "O Governo de Estado \u00e9 a sede do Poder Executivo de um Estado da Federa\u00e7\u00e3o, comandado por um governador e dividido em secretarias de governo, como cultura ou sa\u00fade, por exemplo."
+}, {
+	"name": "Governo Federal",
+	"out_links": [{
+		"name": "Poder Executivo",
+		"alias_in_text": "Poder Executivo"
+	}, {
+		"name": "Uni\u00e3o",
+		"alias_in_text": "Uni\u00e3o"
+	}, {
+		"name": "Presidente da Rep\u00fablica",
+		"alias_in_text": "Presidente da Rep\u00fablica"
+	}],
+	"imagem": "imagem_0016",
+	"texto": "O Governo Federal \u00e9 o Poder Executivo no \u00e2mbito da Uni\u00e3o. No Brasil \u00e9 sediado em Bras\u00edlia (DF) e \u00e9 o respons\u00e1vel pelos interesses da administra\u00e7\u00e3o federal em todo territ\u00f3rio nacional. Tem como mandat\u00e1rio o Presidente da Rep\u00fablica."
+}, {
+	"name": "Justi\u00e7a do Trabalho",
+	"out_links": [{
+		"name": "Poder Judici\u00e1rio",
+		"alias_in_text": "Poder Judici\u00e1rio"
+	}, {
+		"name": "Uni\u00e3o",
+		"alias_in_text": "Uni\u00e3o"
+	}],
+	"imagem": "imagem_0017",
+	"texto": "A Justi\u00e7a do Trabalho faz parte, como ramo especializado, do Poder Judici\u00e1rio da Uni\u00e3o. \u00c9 competente para julgar a\u00e7\u00f5es decorrentes da rela\u00e7\u00e3o do trabalho e as de emprego regidas pela Consolida\u00e7\u00e3o das Leis Trabalhistas (CLT). Atua tamb\u00e9m em casos que envolvem representa\u00e7\u00e3o sindical, atos decorrentes de greve e pedido de indeniza\u00e7\u00e3o por dano moral ou patrimonial resultantes da rela\u00e7\u00e3o de trabalho, entre outros."
+}, {
+	"name": "Justi\u00e7a Eleitoral",
+	"out_links": [{
+		"name": "Poder Judici\u00e1rio",
+		"alias_in_text": "Poder Judici\u00e1rio"
+	}, {
+		"name": "Elei\u00e7\u00f5es",
+		"alias_in_text": "Elei\u00e7\u00f5es"
+	}, {
+		"name": "Candidato",
+		"alias_in_text": "Candidatos"
+	}, {
+		"name": "T\u00edtulo de Eleitor",
+		"alias_in_text": "T\u00edtulo de Eleitor"
+	}],
+	"imagem": "imagem_0018",
+	"texto": "Parte do Poder Judici\u00e1rio que regula e julga os atos praticados durante as elei\u00e7\u00f5es dos candidatos aos cargos p\u00fablicos. \u00c9 respons\u00e1vel pela emiss\u00e3o do T\u00edtulo de Eleitor."
+}, {
+	"name": "Justi\u00e7a Estadual",
+	"out_links": [{
+		"name": "Justi\u00e7a Federal",
+		"alias_in_text": "Justi\u00e7a Federal"
+	}, {
+		"name": "Poder Judici\u00e1rio",
+		"alias_in_text": "Judici\u00e1rio"
+	}, {
+		"name": "Justi\u00e7a do Trabalho",
+		"alias_in_text": "do Trabalho"
+	}, {
+		"name": "Justi\u00e7a Eleitoral",
+		"alias_in_text": "Eleitoral"
+	}, {
+		"name": "Justi\u00e7a Militar",
+		"alias_in_text": "Militar"
+	}, {
+		"name": "Constitui\u00e7\u00e3o Federal",
+		"alias_in_text": "Constitui\u00e7\u00e3o"
+	}, {
+		"name": "Unidade Federativa",
+		"alias_in_text": "Estado"
+	}],
+	"imagem": "imagem_0019",
+	"texto": "A Justi\u00e7a Estadual, integrante da Justi\u00e7a comum (junto com a Justi\u00e7a Federal), \u00e9 respons\u00e1vel por julgar mat\u00e9rias que n\u00e3o sejam da compet\u00eancia dos demais segmentos do Judici\u00e1rio \u2013 Federal, do Trabalho, Eleitoral e Militar. \n\nDe acordo com a Constitui\u00e7\u00e3o, cada estado tem a atribui\u00e7\u00e3o de organizar a sua Justi\u00e7a Estadual. Hoje, ela est\u00e1 presente em todas as unidades da Federa\u00e7\u00e3o, reunindo a maior parte dos casos que chega ao Judici\u00e1rio, j\u00e1 que se encarrega das quest\u00f5es mais comuns e variadas, tanto na \u00e1rea civil quanto na criminal."
+}, {
+	"name": "Justi\u00e7a Federal",
+	"out_links": [{
+		"name": "Poder Judici\u00e1rio",
+		"alias_in_text": "Poder Judici\u00e1rio"
+	}, {
+		"name": "Uni\u00e3o",
+		"alias_in_text": "Uni\u00e3o"
+	}],
+	"imagem": "imagem_0020",
+	"texto": "Integrante do Poder Judici\u00e1rio, a Justi\u00e7a Federal brasileira tem por compet\u00eancia o julgamento de a\u00e7\u00f5es nas quais a Uni\u00e3o Federal, suas autarquias, funda\u00e7\u00f5es e empresas p\u00fablicas federais figurem na condi\u00e7\u00e3o de autoras ou r\u00e9s e outras quest\u00f5es de interesse da Federa\u00e7\u00e3o"
+}, {
+	"name": "Justi\u00e7a Militar",
+	"out_links": [{
+		"name": "Poder Judici\u00e1rio",
+		"alias_in_text": "Poder Judici\u00e1rio"
+	}],
+	"imagem": "imagem_0021",
+	"texto": "A Justi\u00e7a Militar \u00e9 um ramo especializado do Poder Judici\u00e1rio respons\u00e1vel pela aplica\u00e7\u00e3o da lei a uma categoria especial, a dos militares - Marinha, Ex\u00e9rcito, Aeron\u00e1utica, Pol\u00edcias Militares e Corpos de Bombeiros Militares - julgando apenas e t\u00e3o somente os crimes militares definidos em lei."
+}, {
+	"name": "Lei Org\u00e2nica",
+	"out_links": [{
+		"name": "Munic\u00edpio",
+		"alias_in_text": "Munic\u00edpio"
+	}, {
+		"name": "Leis",
+		"alias_in_text": "Lei"
+	}, {
+		"name": "C\u00e2mara Municipal",
+		"alias_in_text": "C\u00e2mara Municipal"
+	}, {
+		"name": "Constitui\u00e7\u00e3o Federal",
+		"alias_in_text": "Constitui\u00e7\u00e3o Federal"
+	}, {
+		"name": "Constitui\u00e7\u00e3o Estadual",
+		"alias_in_text": "Constitui\u00e7\u00e3o Estadual"
+	}],
+	"imagem": "imagem_0022",
+	"texto": "No \u00e2mbito de um munic\u00edpio, a lei org\u00e2nica \u00e9 uma lei ordin\u00e1ria aprovada em dois turnos pela C\u00e2mara Municipal, e pela maioria de dois ter\u00e7os de seus membros, que faz as vezes de lei fundamental daquele territ\u00f3rio.\n\nDeve sempre respeitar os princ\u00edpios da Constitui\u00e7\u00e3o Federal e da Constitui\u00e7\u00e3o Estadual.\n\nApesar de n\u00e3o ser um munic\u00edpio, o Distrito Federal tamb\u00e9m possui uma Lei Org\u00e2nica."
+}, {
+	"name": "Leis",
+	"out_links": [{
+		"name": "Separa\u00e7\u00e3o dos Poderes",
+		"alias_in_text": "Tr\u00eas Poderes"
+	}, {
+		"name": "Constitui\u00e7\u00e3o Federal",
+		"alias_in_text": "Constitui\u00e7\u00e3o"
+	}, {
+		"name": "Constitui\u00e7\u00e3o Estadual",
+		"alias_in_text": "Constitui\u00e7\u00e3o Estadual"
+	}, {
+		"name": "Lei Org\u00e2nica",
+		"alias_in_text": "Lei Org\u00e2nica"
+	}, {
+		"name": "Unidade Federativa",
+		"alias_in_text": "Estado"
+	}, {
+		"name": "Munic\u00edpio",
+		"alias_in_text": "Munic\u00edpio"
+	}],
+	"imagem": "imagem_0023",
+	"texto": "Regra, norma que todos t\u00eam de cumprir. \n\nNo Brasil, cada um dos Tr\u00eas Poderes \u00e9 respons\u00e1vel por criar, executar ou aplicar as leis.\n\nAs principais leis de um pa\u00eds formam a sua Constitui\u00e7\u00e3o. As principais leis de um estado formam a sua Constitui\u00e7\u00e3o Estadual e as principais leis de um munic\u00edpio formam a sua Lei Org\u00e2nica."
+}, {
+	"name": "Munic\u00edpio",
+	"out_links": [{
+		"name": "Unidade Federativa",
+		"alias_in_text": "Estado"
+	}, {
+		"name": "Prefeitura",
+		"alias_in_text": "Prefeitura"
+	}, {
+		"name": "C\u00e2mara Municipal",
+		"alias_in_text": "C\u00e2mara Municipal"
+	}],
+	"imagem": "imagem_0024",
+	"texto": "O munic\u00edpio \u00e9 a divis\u00e3o administrativa de um estado, distrito ou regi\u00e3o, com autonomia administrativa, e que se constitui de certos \u00f3rg\u00e3os pol\u00edticos e administrativos. No caso do Brasil, o munic\u00edpio \u00e9 composto pela Prefeitura e pela C\u00e2mara Municipal."
+}, {
+	"name": "Partidos Pol\u00edticos",
+	"out_links": [{
+		"name": "Cidad\u00e3o",
+		"alias_in_text": "Cidad\u00e3os"
+	}, {
+		"name": "Democracia",
+		"alias_in_text": "Democracias"
+	}, {
+		"name": "Candidato",
+		"alias_in_text": "Candidatos"
+	}],
+	"imagem": "imagem_0025",
+	"texto": "Grupo de cidad\u00e3os com id\u00e9ias parecidas e com os mesmos objetivos pol\u00edticos. Os partidos pol\u00edticos s\u00e3o muito importantes para as democracias do mundo atual.\n\nNo Brasil, todos os candidatos devem estar filiados a um partido pol\u00edtico."
+}, {
+	"name": "Poder Executivo",
+	"out_links": [{
+		"name": "Uni\u00e3o",
+		"alias_in_text": "Uni\u00e3o"
+	}, {
+		"name": "Leis",
+		"alias_in_text": "Leis"
+	}, {
+		"name": "Governo Federal",
+		"alias_in_text": "Governo Federal"
+	}, {
+		"name": "Governo Estadual",
+		"alias_in_text": "Governo Estadual"
+	}, {
+		"name": "Prefeitura",
+		"alias_in_text": "Prefeitura"
+	}, {
+		"name": "Unidade Federativa",
+		"alias_in_text": "Estados"
+	}, {
+		"name": "Munic\u00edpio",
+		"alias_in_text": "Munic\u00edpios"
+	}, {
+		"name": "Separa\u00e7\u00e3o dos Poderes",
+		"alias_in_text": "Tr\u00eas Poderes"
+	}],
+	"imagem": "imagem_0026",
+	"texto": "Um dos Tr\u00eas Poderes. \u00c9 o poder respons\u00e1vel por executar as leis. \n\nNo \u00e2mbito da Uni\u00e3o, o Poder Executivo \u00e9 representado pelo Governo Federal. O Governo Estadual e a Prefeitura representam o Executivo nos estados e nos munic\u00edpios, respectivamente.\n"
+}, {
+	"name": "Poder Judici\u00e1rio",
+	"out_links": [{
+		"name": "Leis",
+		"alias_in_text": "Leis"
+	}, {
+		"name": "Justi\u00e7a Federal",
+		"alias_in_text": "Federal"
+	}, {
+		"name": "Justi\u00e7a Estadual",
+		"alias_in_text": "Estadual"
+	}, {
+		"name": "Justi\u00e7a Militar",
+		"alias_in_text": "Militar"
+	}, {
+		"name": "Justi\u00e7a Eleitoral",
+		"alias_in_text": "Eleitoral"
+	}, {
+		"name": "Justi\u00e7a do Trabalho",
+		"alias_in_text": "do Trabalho"
+	}, {
+		"name": "Supremo Tribunal Federal",
+		"alias_in_text": "STF"
+	}, {
+		"name": "Separa\u00e7\u00e3o dos Poderes",
+		"alias_in_text": "Tr\u00eas Poderes"
+	}],
+	"imagem": "imagem_0027",
+	"texto": "Um dos Tr\u00eas Poderes. \u00c9 respons\u00e1vel por aplicar as leis que garantem os direitos individuais. Fazem parte do Poder Judici\u00e1rio: os Tribunais de Justi\u00e7a (Federal, Estadual, Militar, Eleitoral, do Trabalho) e os Tribunais Superiores que t\u00eam como \u00f3rg\u00e3o m\u00e1ximo o (STF) Supremo Tribunal Federal."
+}, {
+	"name": "Poder Legislativo",
+	"out_links": [{
+		"name": "Leis",
+		"alias_in_text": "Leis"
+	}, {
+		"name": "Poder Executivo",
+		"alias_in_text": "Poder Executivo"
+	}, {
+		"name": "Uni\u00e3o",
+		"alias_in_text": "Uni\u00e3o"
+	}, {
+		"name": "Congresso Nacional",
+		"alias_in_text": "Congresso Nacional"
+	}, {
+		"name": "Unidade Federativa",
+		"alias_in_text": "Estados"
+	}, {
+		"name": "Assembl\u00e9ia Legislativa",
+		"alias_in_text": "Assembl\u00e9ias Legislativas"
+	}, {
+		"name": "Munic\u00edpio",
+		"alias_in_text": "Munic\u00edpios"
+	}, {
+		"name": "C\u00e2mara Municipal",
+		"alias_in_text": "C\u00e2maras Municipais"
+	}, {
+		"name": "Separa\u00e7\u00e3o dos Poderes",
+		"alias_in_text": "Tr\u00eas Poderes"
+	}],
+	"imagem": "imagem_0028",
+	"texto": "Um dos Tr\u00eas Poderes. \u00c9 o poder que elabora as leis e que fiscaliza os atos do Poder Executivo. \n\nO Poder Legislativo \u00e9 representado na Uni\u00e3o pelo Congresso Nacional, nos estados pelas Assembl\u00e9ias Legislativas e nos munic\u00edpios pelas C\u00e2maras Municipais."
+}, {
+	"name": "Prefeito",
+	"out_links": [{
+		"name": "Poder Executivo",
+		"alias_in_text": "Poder Executivo"
+	}, {
+		"name": "Munic\u00edpio",
+		"alias_in_text": "Municipal"
+	}, {
+		"name": "Prefeitura",
+		"alias_in_text": "Prefeitura"
+	}, {
+		"name": "Vice-Prefeito",
+		"alias_in_text": "Vice-Prefeito"
+	}],
+	"imagem": "",
+	"texto": "O prefeito \u00e9 um funcion\u00e1rio p\u00fablico do Poder Executivo municipal. Seu dever \u00e9 administrar o munic\u00edpio e chefiar a Prefeitura. \u00c9 eleito para um mandato de quatro anos junto com um Vice-Prefeito."
+}, {
+	"name": "Prefeitura",
+	"out_links": [{
+		"name": "Poder Executivo",
+		"alias_in_text": "Poder Executivo"
+	}, {
+		"name": "Munic\u00edpio",
+		"alias_in_text": "Munic\u00edpio"
+	}, {
+		"name": "Prefeito",
+		"alias_in_text": "Prefeito"
+	}],
+	"imagem": "imagem_0029",
+	"texto": "No Brasil, a prefeitura \u00e9 a sede do Poder Executivo do munic\u00edpio, comandada por um prefeito e dividida em secretarias de governo, como sa\u00fade ou educa\u00e7\u00e3o, por exemplo."
+}, {
+	"name": "Presidente da Rep\u00fablica",
+	"out_links": [{
+		"name": "Governo Federal",
+		"alias_in_text": "Governo Federal"
+	}, {
+		"name": "Vice-Presidente",
+		"alias_in_text": "Vice-Presidente"
+	}],
+	"imagem": "imagem_0030",
+	"texto": "O presidente \u00e9 a autoridade m\u00e1xima do governo federal. O governador \u00e9 eleito para um mandato de quatro anos, junto com um Vice-Presidente."
+}, {
+	"name": "Senado Federal",
+	"out_links": [{
+		"name": "Congresso Nacional",
+		"alias_in_text": "Congresso Nacional"
+	}, {
+		"name": "Senador",
+		"alias_in_text": "Senadores"
+	}, {
+		"name": "Unidade Federativa",
+		"alias_in_text": "Estados"
+	}],
+	"imagem": "imagem_0031",
+	"texto": "\u00d3rg\u00e3o do Congresso Nacional composto pelos senadores. O Senado representa os Estados e o Distrito Federal."
+}, {
+	"name": "Senador",
+	"out_links": [{
+		"name": "Unidade Federativa",
+		"alias_in_text": "Estados"
+	}, {
+		"name": "Senado Federal",
+		"alias_in_text": "Senado Federal"
+	}],
+	"imagem": "imagem_0032",
+	"texto": "Cada um dos representantes dos Estados ou do Distrito Federal eleitos para o Senado Federal. Cada estado e o Distrito Federal elegem tr\u00eas senadores com mandato de oito anos."
+}, {
+	"name": "Separa\u00e7\u00e3o dos Poderes",
+	"out_links": [{
+		"name": "Poder Legislativo",
+		"alias_in_text": "Legislativo"
+	}, {
+		"name": "Poder Executivo",
+		"alias_in_text": "Executivo"
+	}, {
+		"name": "Poder Judici\u00e1rio",
+		"alias_in_text": "Judici\u00e1rio"
+	}, {
+		"name": "Leis",
+		"alias_in_text": "Leis"
+	}, {
+		"name": "Uni\u00e3o",
+		"alias_in_text": "Uni\u00e3o"
+	}, {
+		"name": "Unidade Federativa",
+		"alias_in_text": "Estado"
+	}, {
+		"name": "Munic\u00edpio",
+		"alias_in_text": "Munic\u00edpio"
+	}],
+	"imagem": "imagem_0033",
+	"texto": "Trata-se dos poderes Legislativo, Executivo e Judici\u00e1rio que norteiam as a\u00e7\u00f5es pol\u00edticas do nosso pa\u00eds.\n\nFoi o fil\u00f3sofo franc\u00eas Montesquieu quem tratou pela primeira vez da divis\u00e3o dos tr\u00eas poderes: Executivo, encarregado de executar as leis e administrar o funcionamento da Uni\u00e3o, do estado ou do munic\u00edpio, Legislativo, encarregado de fazer as leis e fiscalizar as a\u00e7\u00f5es do Executivo e Judici\u00e1rio, encarregado de fazer com que as leis elaboradas pelo Legislativo sejam cumpridas, resolvendo os conflitos e garantindo os direitos individuais, coletivos e sociais."
+}, {
+	"name": "Sistema Bicameral",
+	"out_links": [{
+		"name": "Poder Legislativo",
+		"alias_in_text": "Poder Legislativo"
+	}, {
+		"name": "Congresso Nacional",
+		"alias_in_text": "Congresso Nacional"
+	}, {
+		"name": "C\u00e2mara dos Deputados",
+		"alias_in_text": "C\u00e2mara dos Deputados"
+	}, {
+		"name": "Senado Federal",
+		"alias_in_text": "Senado Federal"
+	}],
+	"imagem": "imagem_0034",
+	"texto": "Sistema constitucional em que o Poder Legislativo \u00e9 composto por duas c\u00e2maras ou casas legislativas. \u00c9 o que acontece no caso do Congresso Nacional, que \u00e9 integrado pela C\u00e2mara dos Deputados e pelo Senado Federal."
+}, {
+	"name": "Supremo Tribunal Federal",
+	"out_links": [{
+		"name": "Poder Judici\u00e1rio",
+		"alias_in_text": "Poder Judici\u00e1rio"
+	}, {
+		"name": "Constitui\u00e7\u00e3o Federal",
+		"alias_in_text": "Constitui\u00e7\u00e3o Federal"
+	}],
+	"imagem": "imagem_0035",
+	"texto": "O Supremo Tribunal Federal, ou STF, \u00e9 a Suprema Corte brasileira, quer dizer, ele representa o topo da hierarquia do Poder Judici\u00e1rio. Sua principal fun\u00e7\u00e3o \u00e9 ser guardi\u00e3o da Constitui\u00e7\u00e3o Federal."
+}, {
+	"name": "T\u00edtulo de Eleitor",
+	"out_links": [{
+		"name": "Cidad\u00e3o",
+		"alias_in_text": "Cidad\u00e3o"
+	}, {
+		"name": "Justi\u00e7a Eleitoral",
+		"alias_in_text": "Justi\u00e7a Eleitoral"
+	}, {
+		"name": "Voto",
+		"alias_in_text": "Votar"
+	}, {
+		"name": "Candidato",
+		"alias_in_text": "Candidato"
+	}, {
+		"name": "Elei\u00e7\u00f5es",
+		"alias_in_text": "Elei\u00e7\u00f5es"
+	}, {
+		"name": "Unidade Federativa",
+		"alias_in_text": "Estaduais"
+	}, {
+		"name": "Governo Federal",
+		"alias_in_text": "Federais"
+	}, {
+		"name": "Munic\u00edpio",
+		"alias_in_text": "Municipais"
+	}],
+	"imagem": "imagem_0036",
+	"texto": "\u00c9 o documento que comprova que um determinado cidad\u00e3o est\u00e1 cadastrado na Justi\u00e7a Eleitoral. O t\u00edtulo de eleitor, se estiver regularizado, permite a pessoa votar num candidato e se candidatar a um cargo, em elei\u00e7\u00f5es municipais, estaduais e federais."
+}, {
+	"name": "Uni\u00e3o",
+	"out_links": [{
+		"name": "Governo Federal",
+		"alias_in_text": "Governo Federal"
+	}, {
+		"name": "Constitui\u00e7\u00e3o Federal",
+		"alias_in_text": "Constitui\u00e7\u00e3o Federal"
+	}, {
+		"name": "Uni\u00e3o",
+		"alias_in_text": "Uni\u00e3o"
+	}, {
+		"name": "Unidade Federativa",
+		"alias_in_text": "Estados"
+	}, {
+		"name": "Munic\u00edpio",
+		"alias_in_text": "Munic\u00edpios"
+	}],
+	"imagem": "imagem_0037",
+	"texto": "Uni\u00e3o \u00e9 a pessoa jur\u00eddica de Direito P\u00fablico representante do Governo Federal no \u00e2mbito interno e da Rep\u00fablica Federativa do Brasil no \u00e2mbito externo. \u00c9 definida no artigo 18 da Constitui\u00e7\u00e3o Federal: Art. 18. A organiza\u00e7\u00e3o pol\u00edtico-administrativa da Rep\u00fablica Federativa do Brasil compreende a Uni\u00e3o, os Estados, o Distrito Federal e os Munic\u00edpios, todos aut\u00f4nomos, nos termos desta Constitui\u00e7\u00e3o."
+}, {
+	"name": "Urna",
+	"out_links": [{
+		"name": "Cidad\u00e3o",
+		"alias_in_text": "Cidad\u00e3o"
+	}, {
+		"name": "Voto",
+		"alias_in_text": "Voto"
+	}, {
+		"name": "Elei\u00e7\u00f5es",
+		"alias_in_text": "Elei\u00e7\u00e3o"
+	}],
+	"imagem": "imagem_0039",
+	"texto": "Local onde o cidad\u00e3o registra seu voto em uma elei\u00e7\u00e3o. Pode ser manual (uma caixa onde o papelzinho com o voto \u00e9 colocado) ou eletr\u00f4nica. No Brasil, a urna eletr\u00f4nica \u00e9 utilizada h\u00e1 vinte anos."
+}, {
+	"name": "Vereador",
+	"out_links": [{
+		"name": "C\u00e2mara Municipal",
+		"alias_in_text": "C\u00e2mara Municipal"
+	}, {
+		"name": "Poder Legislativo",
+		"alias_in_text": "Poder Legislativo"
+	}, {
+		"name": "Munic\u00edpio",
+		"alias_in_text": "Municipal"
+	}],
+	"imagem": "imagem_0040",
+	"texto": "Representante do povo que faz parte da C\u00e2mara Municipal, \u00f3rg\u00e3o do Poder Legislativo municipal. O vereador \u00e9 eleito para um mandato de quatro anos."
+}, {
+	"name": "Vice-Governador",
+	"out_links": [{
+		"name": "Governador",
+		"alias_in_text": "Governador"
+	}],
+	"imagem": "imagem_0041",
+	"texto": "O Vice-Governador \u00e9 a pessoa encarregada de substituir o governador caso este renuncie a sua posi\u00e7\u00e3o, seja afastado do poder ou precise afastar-se do cargo temporariamente."
+}, {
+	"name": "Vice-Prefeito",
+	"out_links": [{
+		"name": "Poder Executivo",
+		"alias_in_text": "Poder Executivo"
+	}, {
+		"name": "Munic\u00edpio",
+		"alias_in_text": "Municipal"
+	}, {
+		"name": "Prefeito",
+		"alias_in_text": "Prefeito"
+	}, {
+		"name": "Voto",
+		"alias_in_text": "Voto"
+	}],
+	"imagem": "imagem_0042",
+	"texto": "Vice-Prefeito \u00e9 o segundo em exerc\u00edcio no cargo do Poder Executivo municipal. No Brasil, esse representante \u00e9 eleito atrav\u00e9s de voto direto, de quatro em quatro anos, juntamente com o prefeito, de modo vinculado. O Vice-Prefeito \u00e9 o substituto do prefeito em caso de aus\u00eancia por licen\u00e7a ou outro impedimento. "
+}, {
+	"name": "Vice-Presidente",
+	"out_links": [{
+		"name": "Presidente da Rep\u00fablica",
+		"alias_in_text": "Presidente"
+	}],
+	"imagem": "imagem_0043",
+	"texto": "O Vice-Presidente tem a fun\u00e7\u00e3o de substituir o Presidente no caso de viagem ao exterior ou impedimentos e suced\u00ea-lo em caso de ren\u00fancia, morte ou destitui\u00e7\u00e3o do cargo por processo de impeachment. Ele deve tamb\u00e9m dar conselhos ao Presidente, caso seja requisitado."
+}, {
+	"name": "Voto",
+	"out_links": [{
+		"name": "Candidato",
+		"alias_in_text": "Candidato"
+	}, {
+		"name": "Elei\u00e7\u00f5es",
+		"alias_in_text": "Elei\u00e7\u00e3o"
+	}, {
+		"name": "Urna",
+		"alias_in_text": "Urnas"
+	}, {
+		"name": "Cidad\u00e3o",
+		"alias_in_text": "Cidad\u00e3o"
+	}, {
+		"name": "T\u00edtulo de Eleitor",
+		"alias_in_text": "T\u00edtulo de Eleitor"
+	}],
+	"imagem": "imagem_0044",
+	"texto": "Manifesta\u00e7\u00e3o oficial que declara a prefer\u00eancia de um eleitor em um candidato durante uma elei\u00e7\u00e3o. No Brasil, os votos de uma elei\u00e7\u00e3o s\u00e3o registrados em urnas eletr\u00f4nicas.\n\nNo Brasil, o cidad\u00e3o precisa ser maior de 16 anos e ter seu T\u00edtulo de Eleitor regularizado para poder votar"
+}]
